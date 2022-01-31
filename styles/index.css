@@ -1,0 +1,112 @@
+div {
+    display: inline-block;
+}
+section {
+    display: inline-block;
+}
+
+.logo {
+    margin-top: 37px;
+    margin-left: 80px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 30px;
+    line-height: 160%;
+    letter-spacing: -0.02em;
+    color: #0A1B32;
+}
+
+.logo-dot {
+    color: #FC569A
+}
+
+.navigation {
+    margin-left: 97.5px;
+    margin-top: 48px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #1B0A42;
+    word-spacing: 38.5px;
+}
+
+.sign-in {
+    margin-left: 752px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #1B0A42;
+}
+
+.sign-up-btn {
+    margin-left: 30px;
+    padding: 18px 31px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    background-color: #FC569A;
+    border: none;
+    border-radius: 6px;
+    color: #FFFFFF;
+}
+
+.main-title {
+    margin-left: 200px;
+    margin-top: 203px;
+    font-family: 'Ramaraja', serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 76px;
+    letter-spacing: 0.02em;
+    color: #1B0A42;
+    max-width: 500px;
+    width: 100%;
+}
+
+.main-info {
+    margin-top: 10px;
+    margin-left: 200px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 32px;
+    letter-spacing: 0.02em;
+    color: #9A9A9A;
+    max-width: 582px;
+    width: 100%;
+}
+
+.main-btn {
+    margin-left: 200px;
+    margin-top: 50px;
+    padding: 18px 32px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    background-color: #FC569A;
+    border: none;
+    border-radius: 6px;
+    color: #FFFFFF;
+}
+img {
+    max-width: 780px;
+    max-height: 526px;
+    margin-left: 18px;
+}
