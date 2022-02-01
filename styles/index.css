@@ -21,9 +21,10 @@ section {
     color: #FC569A
 }
 
-.navigation {
+ul {
     margin-left: 97.5px;
     margin-top: 48px;
+    list-style-type: none;
     font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: normal;
@@ -31,11 +32,27 @@ section {
     line-height: 24px;
     letter-spacing: 0.02em;
     color: #1B0A42;
-    word-spacing: 38.5px;
 }
+
+li {
+    display: inline;
+    margin:16px;
+}
+
+a {
+    text-decoration: none;
+    color: #1B0A42;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #1B0A42;
+}
+
 
 .sign-in {
     margin-left: 752px;
+    margin-top: 48px;
     font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: normal;
@@ -47,6 +64,7 @@ section {
 
 .sign-up-btn {
     margin-left: 30px;
+    margin-top: 30px;
     padding: 18px 31px;
     font-family: 'Roboto', sans-serif;
     font-style: normal;
